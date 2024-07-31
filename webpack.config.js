@@ -17,6 +17,6 @@ module.exports = {
       overlay: false
     },
     compress: true,
-    port: 9000,
+    port: 3000,
   },
 };
